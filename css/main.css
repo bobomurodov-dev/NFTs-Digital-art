@@ -279,6 +279,7 @@ a {
     padding: 20px;
     background-color: #131E3A;
     border-radius: 28px;
+    border-top: 1px solid #D6EF0E;
 }
 .weekly__bottom-card-img {
     border-radius: 17px;
